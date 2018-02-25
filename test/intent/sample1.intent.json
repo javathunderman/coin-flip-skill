@@ -1,7 +1,7 @@
 {
-  "utterance": "Thank you",
-  "intent_type": "ThankYouIntent",
+  "utterance": "Flash briefing",
+  "intent_type": "FetchNPRIntent",
   "intent": {
-    "ThankYouKeyword": "thank you"
+    "FetchNPRKeyword": "Fetching flash briefing from NPR"
   }
 }
