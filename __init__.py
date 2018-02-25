@@ -18,7 +18,7 @@
 from adapt.intent import IntentBuilder
 import feedparser
 import re
-import urllib.request
+import urllib
 from mycroft.skills.core import MycroftSkill
 from mycroft.util.log import getLogger
 
